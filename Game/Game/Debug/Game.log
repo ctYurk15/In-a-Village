@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(335): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(548): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(612): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(634): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\юра\documents\safe\c++\restart\projects\game\game\main.cpp(875): warning C4018: '<': signed/unsigned mismatch
+  Game.vcxproj -> C:\Users\Юра\Documents\safe\c++\Restart\Projects\Game\Debug\Game.exe
